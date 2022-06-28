@@ -23,7 +23,7 @@
 </p>
 
 ## <🧋> Sponsor Me A Cup Of Bubble Tea </🧋>
-<p>
-  <span>ETH address</span>
-  <img src="./images/metamask.png" alt="metamask"/>
-</p>
+<ul>
+  <li>Ethereum</li>
+  <img height="150px" src="./images/metamask.png" alt="metamask"/>
+</ul>
